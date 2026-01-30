@@ -72,10 +72,10 @@ const developer = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Egensolve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Egensolve&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egensolve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -85,7 +85,7 @@ const developer = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Egensolve&theme=discord&no-frame=true&no-bg=true&column=7)
 
 </div>
 
@@ -95,7 +95,7 @@ const developer = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Egensolve&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -105,8 +105,8 @@ const developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/YOUR_USERNAME/REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/YOUR_USERNAME/REPO_NAME_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Egensolve&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Egensolve/system_clients)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Egensolve/Egensolve)
 
 </div>
 
@@ -133,8 +133,8 @@ const developer = {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=for-the-badge)
+![Profile Views](https://egensolve.com)
 
-**⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME) with ❤️**
+**⭐ From [Egensolve](https://github.com/Egensolve) with ❤️**
 
 </div>
