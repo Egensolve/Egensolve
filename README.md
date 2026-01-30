@@ -68,29 +68,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Egensolve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Egensolve&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egensolve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Egensolve&theme=discord&no-frame=true&no-bg=true&column=7)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -105,8 +82,8 @@ const developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Egensolve&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Egensolve/system_clients)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Egensolve/Egensolve)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Egensolve&repo=system_clients&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Egensolve/system_clients)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Egensolve&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)](https://github.com/Egensolve/Egensolve)
 
 </div>
 
@@ -133,7 +110,7 @@ const developer = {
 
 ---
 
-![Profile Views](https://egensolve.com)
+![Profile Views](https://www.egensolve.com)
 
 **⭐ From [Egensolve](https://github.com/Egensolve) with ❤️**
 
