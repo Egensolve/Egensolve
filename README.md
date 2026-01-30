@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm [Your Name] 👋
+# Hey there! we are [Egensolve Team] 👋
 
 ### Full-Stack Developer & Server Administrator
 
@@ -16,7 +16,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Egensolve",
     role: "Full-Stack Developer & Server Admin",
     location: "🌍 Egypt",
     languages: ["Arabic", "English"],
